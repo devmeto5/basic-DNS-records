@@ -7,7 +7,7 @@ This guide will help you set up DNS records for GitHub Pages and a DigitalOcean 
 
 1. **Go to Your DNS Management Page**
    - Log in to your domain registrar account (e.g., Cloudflare, Namecheap, GoDaddy).
-   - Find your domain, then go to the DNS management or settings section.
+   - Find your domain, then go to the DNS management or settings section
 
 2. **Create a CNAME Record**
    - **Record Type**: Select **CNAME**.
